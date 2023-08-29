@@ -1,0 +1,15 @@
+    p{
+        background-color: blueviolet;
+
+    }
+
+    hr{
+        width: 80%;
+        height: 10px;
+        border: none;
+        background-color: cyan;
+
+    }
+    *{
+        text-decoration: underline;
+    }

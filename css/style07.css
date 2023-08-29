@@ -1,0 +1,10 @@
+/* selector1 selector2{
+
+} */
+/* selector1 > selector2{
+} */
+
+#xx + p{
+color: brown;
+
+}

@@ -1,0 +1,9 @@
+h1::first-letter{
+    font-size: 100px;
+    color: color-mix(in xyz-d50, color percentage, color percentage);
+    background-color: aquamarine;
+
+
+}
+
+h3::before{content: url(../image/emacs-icon.png);}

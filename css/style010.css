@@ -1,0 +1,12 @@
+a{
+    font-size: 100px;
+
+}
+a:hover{
+    background-color: brown-;
+}
+
+input:focus{
+
+    background-color: cyan;
+}
